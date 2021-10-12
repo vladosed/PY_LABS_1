@@ -1,4 +1,3 @@
-from numbers import Number
 from string import ascii_letters, digits
 #generate list with lowercase and uppercase alphabet plus numbers
     #str_var = "FMeJSdqXEnxbYzkLSpgt4YchPgqVMghygGW4FMuS68RwLnqRAtb34kpjCm96KPGW2VwBe9tDGjycKPuwGnpgTsELNqrYJK9"
