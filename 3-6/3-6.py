@@ -1,6 +1,4 @@
 #create dictionary with 5 countries
-from typing import ChainMap
-
 
 countries_dict = {
     'Ukraine': 'UA',
